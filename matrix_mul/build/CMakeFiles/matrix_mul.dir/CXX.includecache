@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matmul.cuh
+
+/home/taqiyya/cuda_demo/matrix_mul/src/main.cpp
+cmath
+-
+cstdio
+-
+cstdlib
+-
+vector
+-
+matmul.cuh
+/home/taqiyya/cuda_demo/matrix_mul/src/matmul.cuh
+

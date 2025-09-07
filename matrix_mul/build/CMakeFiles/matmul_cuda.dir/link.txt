@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmatmul_cuda.a  CMakeFiles/matmul_cuda.dir/cuda/matrix.cu.o
+/usr/bin/ranlib libmatmul_cuda.a

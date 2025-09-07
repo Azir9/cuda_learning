@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taqiyya/cuda_demo/matrix_mul/cuda/matrix.cu
+cuda_runtime.h
+-
+cstdio
+-
+cstdlib
+-
+cassert
+-
+

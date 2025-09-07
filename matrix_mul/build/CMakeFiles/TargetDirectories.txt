@@ -1,0 +1,4 @@
+/home/taqiyya/cuda_demo/matrix_mul/build/CMakeFiles/rebuild_cache.dir
+/home/taqiyya/cuda_demo/matrix_mul/build/CMakeFiles/edit_cache.dir
+/home/taqiyya/cuda_demo/matrix_mul/build/CMakeFiles/matrix_mul.dir
+/home/taqiyya/cuda_demo/matrix_mul/build/CMakeFiles/matmul_cuda.dir
